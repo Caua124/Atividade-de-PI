@@ -1,0 +1,18 @@
+#root{
+    max-width:800px;
+    margin:auto;
+}
+
+h2{
+    margin-bottom:10px;
+}
+
+button{
+    padding:8px 16px;
+    margin-top:10px;
+    cursor:pointer;
+}
+
+hr{
+    margin:25px 0;
+}
