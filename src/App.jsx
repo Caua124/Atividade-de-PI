@@ -5,23 +5,16 @@ import Interruptor from "./components/Interruptor";
 import "./App.css";
 
 function App() {
-
     return (
         <div>
-
+          
             <Saudacao />
-
             <hr />
-
             <Perfil nome="Maria" />
             <Perfil nome="João" />
-
             <hr />
-
             <Contador />
-
             <hr />
-
             <Interruptor />
 
         </div>
